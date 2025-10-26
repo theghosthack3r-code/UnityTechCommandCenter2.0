@@ -1,0 +1,7 @@
+{
+  "name": "Clean Projects Command Center v1.2",
+  "description": "A projects-first command center for orchestrating AI-driven work, governed by a Chief of Staff AI. Monitor project health, manage department workflows, and get intelligent insights.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
